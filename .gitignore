@@ -1,0 +1,32 @@
+
+# Python environment and cache
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Editor and logs
+.vscode/
+*.log
+
+# Generated data and large media
+data/vehicle_events.csv
+outputs/
+videos/
+mediamtx/
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Local model weights
+*.pt
+*.pth
+*.onnx

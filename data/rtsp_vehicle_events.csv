@@ -1,0 +1,2 @@
+track_id, vehicle_type, vehicle_color, timestamp_seconds, direction
+      21, bus         , blue         ,              44.2, UP
