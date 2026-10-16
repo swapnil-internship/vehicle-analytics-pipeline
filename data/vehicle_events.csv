@@ -1,0 +1,16 @@
+id,track_id,vehicle_type,vehicle_color,event_timestamp,direction,created_at
+22,110,car,blue,31.76,DOWN,2026-10-15 10:45:24
+21,116,car,silver/grey,26.98,DOWN,2026-10-15 10:44:46
+20,129,car,silver/grey,26.24,DOWN,2026-10-15 10:44:40
+19,121,car,blue,25.46,DOWN,2026-10-15 10:44:34
+18,57,car,blue,20.46,DOWN,2026-10-15 10:43:54
+17,92,car,silver/grey,17.18,DOWN,2026-10-15 10:43:28
+16,95,car,blue,16.42,DOWN,2026-10-15 10:43:22
+15,79,car,silver/grey,14.56,DOWN,2026-10-15 10:43:07
+14,60,car,white,13.74,DOWN,2026-10-15 10:43:00
+13,58,car,dark grey,13.02,DOWN,2026-10-15 10:42:53
+12,4,car,black,11.7,DOWN,2026-10-15 10:42:43
+11,54,car,other,10.88,DOWN,2026-10-15 10:42:37
+10,31,car,blue,4.02,DOWN,2026-10-15 10:41:47
+9,14,car,blue,1.68,DOWN,2026-10-15 10:41:29
+8,1,car,blue,1.06,DOWN,2026-10-15 10:41:24
